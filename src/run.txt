@@ -1,0 +1,5 @@
+-- Data generation
+python src/main.py
+
+-- Check data count
+python src/zz.py
